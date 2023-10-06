@@ -1,9 +1,7 @@
 # flashcard-app-django
-A django project which helps you memorize anything. 
+A django project which helps you memorize anything.<br>
 
-# My Django Web App Project
-
-Welcome to my Django web app project! This project is designed to help you memorize anything. <br> On the front page of your web app, you’ll see all your existing cards and be able to create new ones. On each flashcard, you can add a question and an answer, which you can later edit. Once you’ve learned the answer to the card’s question, the card moves to the next box.<br> If a flashcard moves to the next box, that doesn’t mean you’re done with it. You’ll still review it periodically to refresh your memory,<br> and it’ll continue progressing through the boxes. Basically, the higher the box number, the more likely that you’ve mastered those concepts.<br> If you don’t know the answer to a card’s question, then the card moves back to the first box. 
+Welcome to my Django web app project! This project is designed to help you memorize anything. <br> On the front page of your web app, you’ll see all your existing cards and be able to create new ones. On each flashcard, you can add a question and an answer, which you can later edit. Once you’ve learned the answer to the card’s question, the card moves to the next box.<br> If a flashcard moves to the next box, that doesn’t mean you’re done with it. You’ll still review it periodically to refresh your memory, and it’ll continue progressing through the boxes. Basically, the higher the box number, the more likely that you’ve mastered those concepts.<br> If you don’t know the answer to a card’s question, then the card moves back to the first box. 
 
 ## Getting Started
 
