@@ -3,7 +3,7 @@ A django project which helps you memorize anything.
 
 # My Django Web App Project
 
-Welcome to my Django web app project! This project is designed to help you memorize anything. <br> On the front page of your web app, you’ll see all your existing cards and be able to create new ones. On each flashcard, you can add a question and an answer,<br> which you can later edit.Once you’ve learned the answer to the card’s question, the card moves to the next box.<> If a flashcard moves to the next box, that doesn’t mean you’re done with it. You’ll still review it periodically to refresh your memory,<br> and it’ll continue progressing through the boxes. Basically, the higher the box number, the more likely that you’ve mastered those concepts.<br> If you don’t know the answer to a card’s question, then the card moves back to the first box. 
+Welcome to my Django web app project! This project is designed to help you memorize anything. <br> On the front page of your web app, you’ll see all your existing cards and be able to create new ones. On each flashcard, you can add a question and an answer, which you can later edit. Once you’ve learned the answer to the card’s question, the card moves to the next box.<br> If a flashcard moves to the next box, that doesn’t mean you’re done with it. You’ll still review it periodically to refresh your memory,<br> and it’ll continue progressing through the boxes. Basically, the higher the box number, the more likely that you’ve mastered those concepts.<br> If you don’t know the answer to a card’s question, then the card moves back to the first box. 
 
 ## Getting Started
 
@@ -21,13 +21,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/urslimshady/flashcard-app-django
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <project_directory>
+   cd flashcard-app-django
    ```
 
 3. Create a virtual environment (optional but recommended):
